@@ -1,0 +1,7 @@
+2023-Nov-16 19:41:03
+Computer name:	DHARAGESH
+Number of cores used in calculation:	16
+Configuration name:	Default
+Project name:	flow test
+
+Warnings on last iteration: 

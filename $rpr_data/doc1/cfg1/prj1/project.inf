@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<version>1</version>
+	<name>flow test</name>
+	<uuid>cc7a8cae-4524-4256-8711-0f71333f587d</uuid>
+	<directory>prj1</directory>
+	<vwr_res_files_dir>1</vwr_res_files_dir>
+	<geom_db_uuid>16da928c-e84f-4836-8a4f-e4242a41def0</geom_db_uuid>
+	<gdb_light_uuid>4afd6da7-2041-457a-bfda-42c868302b47</gdb_light_uuid>
+	<model_geom_uuid>efa90c5a-fbbc-41c9-af6b-9b79e8114b12</model_geom_uuid>
+	<template_id/>
+</project>

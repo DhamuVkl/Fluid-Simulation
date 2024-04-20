@@ -1,0 +1,55 @@
+{
+    "version": 0,
+    "model_name": "Part1.SLDPRT",
+    "project_name": "flow test",
+    "config_name": "Default",
+    "project_path": "C:\\Users\\dhara\\Documents\\SolidWorks Projects\\Pipe Flow Simulaton\\1\\1.xmlconfig",
+    "finished": true,
+    "mesh": {
+        "cells_total": 51732,
+        "cells_fluid": 51732,
+        "cells_solid": 36720,
+        "cells_fluid_containing_solid": 13816
+    },
+    "telemetry": {
+        "prepare_geometry_finished": "19:40:37+0530",
+        "prepare_geometry_total_time": 4,
+        "cpu_time_solver_total": 31,
+        "iteration": 101,
+        "travel": 1.3553088994002722,
+        "phys_time": 0.0,
+        "time_step": 0.0,
+        "last_iteration_finished": "19:41:03+0530",
+        "cpu_time_per_last_iter": 1,
+        "cpu_time_left": 0,
+        "iterations_per_travel": 75
+    },
+    "goals": [],
+    "settings": {
+        "default_fluids": [
+            "Water"
+        ],
+        "analysis_type": "internal",
+        "heat_conduction_in_solids": false,
+        "radiation": false,
+        "time_dependent": false,
+        "gravity": false,
+        "flow_type": "laminar and turbulent",
+        "cavitation": false,
+        "high_mach_number": true,
+        "free_surface": false,
+        "structural": false,
+        "electromagnetism": false
+    },
+    "system_info": {
+        "product_name": "Flow Simulation 2023  x64 / 6175 / SOLVER ver. efd_dev.5608_04.02.2022+HMN_Inlet_Rework_V1+HMN_Inlet_Rework_V2",
+        "cad_version": "SOLIDWORKS 2023 SP5.0",
+        "computer_name": "DHARAGESH",
+        "user_name": "dhara",
+        "os": "Windows 11 (or higher) (Version 10.0.22631)",
+        "cpu": "AMD Ryzen 7 6800H with Radeon Graphics         ",
+        "number_of_cores": 16,
+        "memory_avail": 8551,
+        "memory_total": 15557
+    }
+}
